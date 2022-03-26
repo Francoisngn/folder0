@@ -1,0 +1,59 @@
+commit 65653bd2966d450ee35486db2663129135661354
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Thu Mar 24 10:17:43 2022 +0100
+
+    Add a cherry-picked blackberry
+
+commit 11fb6c125bf293fc6604d9eb1522e2703abcf919
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 22:51:12 2022 +0100
+
+    Add the other half of the grape
+
+commit 14c480aa9191f0141a58d542d9da67b75baa5223
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 22:49:41 2022 +0100
+
+    Add half a grape
+
+commit 4a3c16502521c0066d3fe9ee743f0ccccb59e3b3
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 20:14:38 2022 +0100
+
+    Add the other half of the grape
+
+commit be7ef54d8c8508d83e67901c27470ecd93044666
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 20:10:21 2022 +0100
+
+    Add half a grape
+
+commit 399e060e9a73f6fc5d0047c098ba74929243dd71
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 12:45:00 2022 +0100
+
+    Add a peach
+
+commit ce38e57b4ab0118baed17f54c873ed288a94ddc0
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sat Mar 26 12:37:22 2022 +0100
+
+    Add a peach
+
+commit 8610a52faa7aa07251b4d9594f1b14bbd68db85e
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sun Mar 20 21:59:09 2022 +0100
+
+    Add an orange
+
+commit c00ad4031fe131165ec9a47933ac5cd97d612a5c
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sun Mar 20 21:41:29 2022 +0100
+
+    Add an apple
+
+commit 2171c4c951961bf6c8acba7c467388027183bf17
+Author: NGUYEN <francois.ht.nguyen@gmail.com>
+Date:   Sun Mar 20 21:07:44 2022 +0100
+
+    Add a banana to the shopping list

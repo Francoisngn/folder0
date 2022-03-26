@@ -1,0 +1,103 @@
+65653bd HEAD@{0}: commit (cherry-pick): Add a cherry-picked blackberry
+11fb6c1 HEAD@{1}: checkout: moving from master to master
+11fb6c1 HEAD@{2}: reset: moving to HEAD^
+fc53db5 HEAD@{3}: checkout: moving from berries to master
+2171c4c HEAD@{4}: reset: moving to HEAD^
+c00ad40 HEAD@{5}: reset: moving to HEAD^
+8610a52 HEAD@{6}: reset: moving to HEAD^
+a4310d2 HEAD@{7}: reset: moving to HEAD^
+6602415 HEAD@{8}: checkout: moving from master to berries
+fc53db5 HEAD@{9}: checkout: moving from berries to master
+6602415 HEAD@{10}: merge melons: Fast-forward
+a4310d2 HEAD@{11}: checkout: moving from berries to berries
+a4310d2 HEAD@{12}: checkout: moving from master to berries
+fc53db5 HEAD@{13}: commit (merge): Merge melons branch into master
+11fb6c1 HEAD@{14}: checkout: moving from master to master
+11fb6c1 HEAD@{15}: checkout: moving from be7ef54d8c8508d83e67901c27470ecd93044666 to master
+be7ef54 HEAD@{16}: reset: moving to HEAD^
+4a3c165 HEAD@{17}: reset: moving to HEAD^
+14c480a HEAD@{18}: reset: moving to HEAD^
+11fb6c1 HEAD@{19}: rebase (start): checkout master
+baa0489 HEAD@{20}: commit: Add a walnut
+8fe612b HEAD@{21}: checkout: moving from master to nuts
+11fb6c1 HEAD@{22}: commit: Add the other half of the grape
+14c480a HEAD@{23}: commit: Add half a grape
+4a3c165 HEAD@{24}: checkout: moving from 4a3c16502521c0066d3fe9ee743f0ccccb59e3b3 to master
+4a3c165 HEAD@{25}: reset: moving to master
+399e060 HEAD@{26}: checkout: moving from 4a3c16502521c0066d3fe9ee743f0ccccb59e3b3 to 399e060
+4a3c165 HEAD@{27}: rebase (start): checkout master
+8fe612b HEAD@{28}: commit: Add a walnut
+8610a52 HEAD@{29}: checkout: moving from master to nuts
+4a3c165 HEAD@{30}: commit: Add the other half of the grape
+be7ef54 HEAD@{31}: commit: Add half a grape
+399e060 HEAD@{32}: checkout: moving from 399e060e9a73f6fc5d0047c098ba74929243dd71 to master
+399e060 HEAD@{33}: reset: moving to master
+8610a52 HEAD@{34}: checkout: moving from a4310d2016cd93fc7ff17ea45d42bea096284073 to HEAD~1
+a4310d2 HEAD@{35}: checkout: moving from melons to HEAD~1
+6602415 HEAD@{36}: checkout: moving from master to melons
+399e060 HEAD@{37}: reset: moving to master
+399e060 HEAD@{38}: reset: moving to master
+399e060 HEAD@{39}: commit: Add a peach
+ce38e57 HEAD@{40}: commit: Add a peach
+8610a52 HEAD@{41}: checkout: moving from bug to master
+64fdf7c HEAD@{42}: commit: Another bug!
+7f67a2a HEAD@{43}: checkout: moving from master to bug
+8610a52 HEAD@{44}: checkout: moving from 7f67a2a3fe4d8b9b8b2caa6c3cf8437a66273bdc to master
+7f67a2a HEAD@{45}: commit: Bug eats all the fruits!
+c00ad40 HEAD@{46}: checkout: moving from master to HEAD^
+8610a52 HEAD@{47}: checkout: moving from ec54434eb0c5226ad28ded7f49503d21ec0b21c0 to master
+ec54434 HEAD@{48}: commit: Bug eats all the fruits!
+c00ad40 HEAD@{49}: checkout: moving from master to HEAD^
+8610a52 HEAD@{50}: checkout: moving from ef7d314886eecce914081b485e82d8b844b29554 to master
+ef7d314 HEAD@{51}: commit: Bug eats all the fruits!
+c00ad40 HEAD@{52}: checkout: moving from master to HEAD^
+8610a52 HEAD@{53}: checkout: moving from c00ad40 to master
+c00ad40 HEAD@{54}: checkout: moving from c00ad4031fe131165ec9a47933ac5cd97d612a5c to c00ad40
+c00ad40 HEAD@{55}: checkout: moving from master to HEAD^
+8610a52 HEAD@{56}: checkout: moving from melons to master
+6602415 HEAD@{57}: checkout: moving from master to melons
+8610a52 HEAD@{58}: checkout: moving from berries to master
+a4310d2 HEAD@{59}: reset: moving to HEAD^
+6602415 HEAD@{60}: commit: Add a watermelon
+a4310d2 HEAD@{61}: reset: moving to a4310d2
+8610a52 HEAD@{62}: reset: moving to master
+7fdcbe4 HEAD@{63}: checkout: moving from master to berries
+8610a52 HEAD@{64}: checkout: moving from berries to master
+7fdcbe4 HEAD@{65}: checkout: moving from master to berries
+8610a52 HEAD@{66}: checkout: moving from berries to master
+7fdcbe4 HEAD@{67}: commit: Add a blackberry
+4a31d70 HEAD@{68}: checkout: moving from master to berries
+8610a52 HEAD@{69}: checkout: moving from berries to master
+4a31d70 HEAD@{70}: commit: Add a watermelon
+a4310d2 HEAD@{71}: reset: moving to a4310d2
+8610a52 HEAD@{72}: reset: moving to master
+a4310d2 HEAD@{73}: checkout: moving from master to berries
+8610a52 HEAD@{74}: checkout: moving from berries to master
+a4310d2 HEAD@{75}: commit: Add a blackberry
+8610a52 HEAD@{76}: checkout: moving from c00ad4031fe131165ec9a47933ac5cd97d612a5c to berries
+c00ad40 HEAD@{77}: checkout: moving from melons to HEAD^
+8610a52 HEAD@{78}: checkout: moving from melons to melons
+8610a52 HEAD@{79}: reset: moving to HEAD^
+b57852f HEAD@{80}: checkout: moving from master to melons
+8610a52 HEAD@{81}: checkout: moving from 7b2a53bada92dff58dadb6049ce5d53f7864c17f to master
+7b2a53b HEAD@{82}: commit: Add a blackberry
+8610a52 HEAD@{83}: checkout: moving from melons to HEAD^
+b57852f HEAD@{84}: checkout: moving from berries to melons
+8610a52 HEAD@{85}: reset: moving to HEAD^
+5edc79c HEAD@{86}: commit: Add a blackberry
+8610a52 HEAD@{87}: reset: moving to master
+d6be32a HEAD@{88}: checkout: moving from master to berries
+8610a52 HEAD@{89}: checkout: moving from berries to master
+d6be32a HEAD@{90}: commit: Add a blackberry
+3869da7 HEAD@{91}: commit: Add a blackberry
+c00ad40 HEAD@{92}: reset: moving to HEAD^
+8610a52 HEAD@{93}: reset: moving to HEAD^
+b57852f HEAD@{94}: commit: Add a watermelon
+8610a52 HEAD@{95}: reset: moving to master
+4ba736a HEAD@{96}: checkout: moving from master to berries
+8610a52 HEAD@{97}: checkout: moving from berries to master
+4ba736a HEAD@{98}: commit: Add a blackberry
+8610a52 HEAD@{99}: checkout: moving from master to berries
+8610a52 HEAD@{100}: commit: Add an orange
+c00ad40 HEAD@{101}: commit: Add an apple
+2171c4c HEAD@{102}: commit (initial): Add a banana to the shopping list

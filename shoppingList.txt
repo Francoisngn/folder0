@@ -1,0 +1,10 @@
+banana
+apple
+orange
+<<<<<<< HEAD
+peach
+peach
+grape
+=======
+blackberry
+>>>>>>> a4310d2 (Add a blackberry)
